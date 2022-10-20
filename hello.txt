@@ -3,6 +3,5 @@ hello cssl! hello git
 hello cssl! hello git
 hello cssl! hello git
 hello cssl! hello git
-hello cssl! hello git
 hello cssl! hello git master test
 hello cssl! hello git hot-fix test
